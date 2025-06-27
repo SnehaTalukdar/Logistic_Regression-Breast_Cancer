@@ -1,3 +1,13 @@
+# Analysis of Breast Cancer Datasets
+
+## Important Notice: 
+The original dataset had some errors, which were discovered after the initial upload.
+Before uploading, a final cleaning step was added to address these issues.
+Both the code and the cleaned dataset file are included separately.
+
+
+
+
 # Classification of Breast Cancer Using Logistic Regression
 -> Using the Breast Cancer Wisconsin dataset from Scikit-learn, this project uses logistic regression to categorize breast cancer tumors as either malignant or benign.
 
